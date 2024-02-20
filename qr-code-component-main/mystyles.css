@@ -20,11 +20,12 @@ body {
   align-items: center;
   background: hsl(212, 45%, 89%);
   min-height: 100vh;
+  text-align: center;
 }
 
 .container {
   background: hsl(0, 0%, 100%);
-  max-width: 320px;
+  max-width: 20rem;
   align-items: center;
   padding: 18px;
   margin: 18px;
@@ -39,18 +40,16 @@ body {
 }
 
 .main-text {
-  font-size: 22px;
+  font-size: 1.375rem;
   margin-top: 18px;
   font-family: Outfit-Bold;
   color: hsl(218, 44%, 22%);
-  text-align: center;
 }
 
 .sub-text {
   font-family: Outfit-Regular;
   margin: 12px;
   color: hsl(220, 15%, 55%);
-  text-align: center;
 }
 
 .attribution {
